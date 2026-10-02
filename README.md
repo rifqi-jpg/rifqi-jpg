@@ -106,7 +106,6 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/rifqi-jpg/rifqi-jpg/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=rifqi-jpg&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
@@ -117,12 +116,6 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=5id17q811pq9mpapv7rh4dzua&count=5" alt="Spotify recently played"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/rifqi-jpg/rifqi-jpg/snake-output/snake.svg" alt="Snake animation" />
 
 ###
 
