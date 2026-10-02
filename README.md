@@ -118,9 +118,3 @@
 </div>
 
 ###
-
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=27&section=footer&reversal=false&fontSize=68&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
-</div>
-
-###
