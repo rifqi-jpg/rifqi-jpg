@@ -1,16 +1,133 @@
-## Hi there 👋
+<div data-importer="image" align="center">
+  <img data-importer="image" height="276" src="https://i.pinimg.com/originals/4a/85/ec/4a85ecd7f5b546c0f15a15dc3bf2f6a2.jpg?nii=t"  />
+</div>
 
-<!--
-**rifqi-jpg/rifqi-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<div data-importer="socials" align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="35" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="35" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="50" height="35" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="35" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/spotify/default.svg" width="50" height="35" alt="spotify logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="50" height="35" alt="whatsapp logo"  />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=rifqi-jpg.rifqi-jpg&"  />
+</div>
+
+###
+
+<h1 data-importer="text" align="center">Hi, I'm Rifqi👋</h1>
+
+###
+
+<h3 data-importer="text" align="left">👩‍💻  About Me</h3>
+
+###
+
+<p data-importer="text" align="left">I'm an Information Management student from Indonesia 🇮🇩 who enjoys combining technology and creativity.<br><br>- 🔭 I’m currently working on web development projects and my final project.<br>- 📚 I’m currently learning full-stack development, exploring both frontend and backend technologies.<br>- ⚡ In my free time I enjoy coding, designing, experimenting with new ideas, and learning new technologies.</p>
+
+###
+
+<h3 data-importer="text" align="left">🛠 Language and tools</h3>
+
+###
+
+<div data-importer="techs" align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img width="14" />
+  <img src="https://cdn.simpleicons.org/codeigniter/EF4223" height="40" alt="codeigniter logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="40" alt="composer logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" height="40" alt="devicon logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="rstudio logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
+</div>
+
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rifqi-jpg/rifqi-jpg/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rifqi-jpg/rifqi-jpg/pacman-output/galaga-contribution-graph.svg?game=galaga">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rifqi-jpg/rifqi-jpg/pacman-output/galaga-contribution-graph.svg?game=galaga">
+</picture>
+
+###
+
+<h3 data-importer="text" align="left">🔥   My Stats :</h3>
+
+###
+
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/rifqi-jpg/rifqi-jpg/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=rifqi-jpg&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<div data-importer="music" align="center">
+  <a href="https://open.spotify.com/user/5id17q811pq9mpapv7rh4dzua">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=5id17q811pq9mpapv7rh4dzua&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/rifqi-jpg/rifqi-jpg/snake-output/snake.svg" alt="Snake animation" />
+
+###
+
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=27&section=footer&reversal=false&fontSize=68&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
+
+###
