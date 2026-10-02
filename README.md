@@ -99,8 +99,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rifqi-jpg/rifqi-jpg/output/pacman-contribution-graph.svg">
 </picture>
 
-_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
-
 ###
 
 <h3 data-importer="text" align="left">🔥   My Stats :</h3>
