@@ -29,7 +29,7 @@
 
 ###
 
-<p data-importer="text" align="left">I'm an Information Management student from Indonesia 🇮🇩 who enjoys combining technology and creativity.<br><br>- 🔭 I’m currently working on web development projects and my final project.<br>- 📚 I’m currently learning full-stack development, exploring both frontend and backend technologies.<br>- ⚡ In my free time I enjoy coding, designing, experimenting with new ideas, and learning new technologies.</p>
+<p data-importer="text" align="left">I'm a Junior Web Developer from Indonesia 🇮🇩 passionate about building web applications and exploring new technologies and creativity.<br><br>- 🔭 I’m currently working on web development projects and my final project.<br>- 📚 I’m currently learning full-stack development, exploring both frontend and backend technologies.<br>- ⚡ In my free time I enjoy coding, designing, experimenting with new ideas, and learning new technologies.</p>
 
 ###
 
