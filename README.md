@@ -45,7 +45,7 @@ class Rifqi:
     def free_time(self):
         return ["coding", "designing", "experimenting with new ideas", "learning new tech"]
 
-me = Rifqi()
+me = RifqirabbaniA()
 ```
 
 ```text
