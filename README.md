@@ -99,12 +99,6 @@ graph LR
 
 </div>
 
-<div align="center">
-
-![line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
-
-</div>
-
 ## 🤝 Open to Collaboration
 
 | ![](https://api.iconify.design/mdi/web.svg?color=white) **Web Development** <br> Frontend & Backend <br> Landing Page <br> CRUD Apps | ![](https://api.iconify.design/mdi/palette.svg?color=white) **UI / UX Design** <br> Figma Prototyping <br> Desain Antarmuka <br> Konten Visual | ![](https://api.iconify.design/mdi/database.svg?color=white) **Database** <br> MySQL / SQLite <br> MongoDB <br> Perancangan Skema | ![](https://api.iconify.design/mdi/source-branch.svg?color=white) **Open Source** <br> Project Komunitas <br> Belajar Bareng <br> Code Review |
