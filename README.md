@@ -8,7 +8,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rifqi-jpg&label=Profile%20Views&color=00FF00&style=flat-square)
 
-# Rifqi Rabbani Aswin 👋
+[![Greeting](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=34&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&height=60&lines=Hi,+I'm+Rifqi+Rabbani+Aswin)](https://github.com/rifqi-jpg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=00FF00&center=true&vCenter=true&width=900&height=50&lines=Junior+Web+Developer;Full-Stack+Learner;Building+Modern+Web+Applications)](https://github.com/rifqi-jpg)
 
