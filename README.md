@@ -99,27 +99,6 @@ graph LR
 
 </div>
 
-## 🗺️ Journey
-
-<!-- GANTI dengan pengalaman / pendidikan / organisasi kamu yang sebenarnya -->
-
-```mermaid
-timeline
-    title My Journey
-
-    2023 : Mulai belajar web development
-         : HTML, CSS, JavaScript
-
-    2024 : Belajar PHP & Laravel
-         : Eksplorasi CodeIgniter, MySQL
-
-    2025 : Belajar React, Next.js, Vue
-         : Mulai mengerjakan Final Project
-
-    2026 : Full-Stack Development
-         : Terus eksplorasi teknologi baru
-```
-
 <div align="center">
 
 ![line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
