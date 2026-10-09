@@ -30,7 +30,7 @@ class Rifqi:
     def __init__(self):
         self.name = "Rifqirabbani Aswin"
         self.role = "Full-Stack Web Developer"
-        self.location = "Indonesia 🇮🇩"
+        self.location = "Banda Aceh, Indonesia"
         self.current_focus = ["Final Project", "Full-Stack Development"]
 
     def tech(self):
