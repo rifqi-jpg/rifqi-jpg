@@ -34,8 +34,8 @@
 ```python
 class Rifqi:
     def __init__(self):
-        self.name = "Rifqi Rabbani Aswin"
-        self.role = "Junior Web Developer"
+        self.name = "RifqiRabbani Aswin"
+        self.role = "Full-Stack Web Developer"
         self.location = "Indonesia 🇮🇩"
         self.current_focus = ["Final Project", "Full-Stack Development"]
 
