@@ -1,9 +1,3 @@
-<div data-importer="image" align="center">
-  <img data-importer="image" height="276" src="https://i.pinimg.com/originals/4a/85/ec/4a85ecd7f5b546c0f15a15dc3bf2f6a2.jpg?nii=t"  />
-</div>
-
-###
-
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rifqi-jpg&label=Profile%20Views&color=00FF00&style=flat-square)
