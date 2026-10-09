@@ -99,10 +99,68 @@ graph LR
 
 </div>
 
-## 🤝 Open to Collaboration
-
-| ![](https://api.iconify.design/mdi/web.svg?color=white) **Web Development** <br> Frontend & Backend <br> Landing Page <br> CRUD Apps | ![](https://api.iconify.design/mdi/palette.svg?color=white) **UI / UX Design** <br> Figma Prototyping <br> Desain Antarmuka <br> Konten Visual | ![](https://api.iconify.design/mdi/database.svg?color=white) **Database** <br> MySQL / SQLite <br> MongoDB <br> Perancangan Skema | ![](https://api.iconify.design/mdi/source-branch.svg?color=white) **Open Source** <br> Project Komunitas <br> Belajar Bareng <br> Code Review |
-| :---: | :---: | :---: | :---: |
+<h2 align="center">Open to Collaboration</h2>
+ 
+<table align="center" width="100%">
+  <tr>
+    <td align="center" valign="top" width="25%">
+      <br>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi/web.svg?color=white">
+        <img src="https://api.iconify.design/mdi/web.svg?color=black" width="48" height="48" alt="Web Development">
+      </picture>
+      <br><br>
+      <b>Web Development</b>
+      <br><br>
+      Frontend &amp; Backend<br>
+      Landing Page<br>
+      CRUD Apps
+      <br><br>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <br>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi/palette.svg?color=white">
+        <img src="https://api.iconify.design/mdi/palette.svg?color=black" width="48" height="48" alt="UI UX Design">
+      </picture>
+      <br><br>
+      <b>UI / UX Design</b>
+      <br><br>
+      Figma Prototyping<br>
+      Desain Antarmuka<br>
+      Konten Visual
+      <br><br>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <br>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi/database.svg?color=white">
+        <img src="https://api.iconify.design/mdi/database.svg?color=black" width="48" height="48" alt="Database">
+      </picture>
+      <br><br>
+      <b>Database</b>
+      <br><br>
+      MySQL / SQLite<br>
+      MongoDB<br>
+      Perancangan Skema
+      <br><br>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <br>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi/source-branch.svg?color=white">
+        <img src="https://api.iconify.design/mdi/source-branch.svg?color=black" width="48" height="48" alt="Open Source">
+      </picture>
+      <br><br>
+      <b>Open Source</b>
+      <br><br>
+      Project Komunitas<br>
+      Belajar Bareng<br>
+      Code Review
+      <br><br>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
 
@@ -111,8 +169,6 @@ graph LR
 ## 📊 My Stats
 
 ![Streak](https://streak-stats.demolab.com?user=rifqi-jpg&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rifqi-jpg&theme=github-compact&hide_border=true&area=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rifqi-jpg&layout=compact&theme=default&hide_border=true&langs_count=8)
 
